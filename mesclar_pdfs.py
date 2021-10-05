@@ -1,4 +1,3 @@
-from os import getcwd, chdir
 from PyPDF2 import PdfFileMerger
 from os import getcwd
 from os import listdir
